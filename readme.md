@@ -4,4 +4,4 @@ alguma nova linha Master
 
 ALTERAR OQ QUISER
 
-bom dia amigos
+estudando git pra valer
